@@ -1,5 +1,5 @@
 ---
-title: "Child's Health"
+title: "Child Health"
 collection: Research
 permalink: /research/childhealth
 excerpt: 'The global increase in cesarean deliveries (C-sections), including in Bangladesh, has raised concerns about its impact on maternal and child health. This study aimed to explore the link between C-sections and childhood diseases, and identify key factors influencing these diseases (1). In Bangladesh, acute respiratory infections (ARIs) are a major cause of child mortality, with about 25% of deaths among children under five attributed to ARI annually. This research investigated whether using alternative fuels instead of traditional solid fuels impacts ARI rates in children (2). Cognitive and socio-emotional development issues in early childhood can lead to health problems. We assessed early childhood development (ECD) status and its factors, comparing data from two multiple indicator cluster surveys (MICS) in Bangladesh (3). Additionally, the study examined how socio-economic and health-related variables, including maternal education and childhood nutrition, affect enrollment in Early Childhood Education (ECE) programs, which are crucial for future academic success (4).'
