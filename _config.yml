@@ -38,9 +38,6 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Mohammad-Hasan-79"
-  - icon: envelope
-        aria-label: email
-        href: "mailto:hossainmj@gmail.com"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
