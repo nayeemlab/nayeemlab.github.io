@@ -1,5 +1,5 @@
 ---
-title: "Chronic diseases/Noncommunicable diseases"
+title: "Chronic Diseases/Noncommunicable Diseases"
 collection: Research
 permalink: /research/NCD
 excerpt: 'Aging presents a significant challenge in Bangladesh, with its impact progressively intensifying and leading to a range of serious consequences. Older adults often face new and complex health issues, with many suffering from chronic conditions. Research was conducted to assess the health status, depression, and daily functioning of elderly individuals in the Sylhet region of Bangladesh (1). Additionally, a major contemporary health issue is the rising prevalence of chronic diseases among young adults. This study aimed to identify risk factors for chronic disease and determine the prevalence of such conditions in individuals aged 18 to 39 (2).'
