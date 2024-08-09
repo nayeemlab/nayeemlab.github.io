@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nayeem's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mohammad Nayeem Hasan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nayeemlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,29 +21,29 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Mohammad Nayeem Hasan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "My work heavily involves population based data sets, mining information from them to enhance knowledge and practice of public health"
+  location         : "1st floor, Rahib Mansion, Uttar Dikkul, Cox’s Bazar Sadar, Cox’s Bazar, Bangladesh"
+  employer         : "Community Partners International"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nayeem@ghcxb.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=uL4sMPIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2383-0459"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Mohammad-Hasan-79"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "nayeemlab"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
