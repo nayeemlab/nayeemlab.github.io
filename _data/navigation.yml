@@ -2,7 +2,7 @@
 main:
   - title: "Research"
     menu:
-          - text: /publications/
+          - text: "Publications"
             file: /publications/
           - text: "Publications"
             file: /publications/
