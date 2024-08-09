@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research interests
+## Research interests
 
 * Biostatistics
 * Epidemiology
