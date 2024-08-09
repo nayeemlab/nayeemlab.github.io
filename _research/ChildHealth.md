@@ -10,7 +10,7 @@ citation: '<br>1. Hasan MN. (2020). &quot;Cesarean delivery and early childhood 
 2. Hasan MN. (2022). &quot;Association of household fuel with acute respiratory infection (ARI) under-five years children in Bangladesh.&quot; <i>Front. Public Health</i>. https://doi.org/10.3389/fpubh.2022.985445.<br> 
 3. Hasan MN. (2023). &quot;Early childhood developmental status and its associated factors in Bangladesh: a comparison of two consecutive nationally representative surveys.&quot; <i>BMC Public Health</i>. https://doi.org/10.1186/s12889-023-15617-8.
 <br> 
-4. Hasan MN. (2024). &quot;Effect of Children's Socio-Economic and Health Status in Early Childhood Education Programs in Bangladesh: A Cross-Sectional Study of Mics-2019.&quot; <i>SSRN (Preprint)</i>. https://doi.org/10.2139/ssrn.4664066.'
+4. Hasan MN. (2024). &quot;Effect of Childrens Socio-Economic and Health Status in Early Childhood Education Programs in Bangladesh: A Cross-Sectional Study of Mics-2019.&quot; <i>SSRN (Preprint)</i>. https://doi.org/10.2139/ssrn.4664066.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
