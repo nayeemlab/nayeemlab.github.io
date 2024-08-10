@@ -1,13 +1,33 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template]<br/><img src='/images/500x300.png'>"(https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+#Professional Background
+With over three years of experience in health data management, I have worked with organizations like Green Hill-Community Partners International, Food for the Hungry-UNHCR, and Partners in Health & Development-Save the Children. This experience underscores my commitment to advancing academic and research pursuits in health.
+
+Academic Goals: I aim to refine my Biostatistics skills to conduct impactful research and eventually lead a research lab focused on statistical design, methodology, and mentorship. My dedication to Biostatistics is driven by influential academic mentors and a passion for continuous learning.
+
+Research Experience: My research journey began during my undergraduate studies, investigating the impact of delivery methods on newborn health in Bangladesh. My Second Major in Computer Science and Engineering enhanced my skills in statistical programming languages such as SAS, Stata, and R.
+
+Educational Background: I earned a Bachelor of Science in Statistics from Shahjalal University of Science and Technology, where foundational courses in statistics and advanced studies in Regression Analysis and Statistical Computing shaped my analytical skills. My MS program further deepened my expertise in Biostatistics.
+
+Current Role: As a Monitoring and Evaluation Officer (Health) in Humanitarian Response, I work on projects like the Rohingya Refugee/Forcibly Displaced Myanmar Nationals (FDMN) Response Program, focusing on health outcomes and data analysis. My role involves implementing strategies for program advancement, capacity building, and data management.
+
+Publications and Volunteering: I have authored over 30 publications in reputable journals, covering topics from COVID-19 to Dengue outbreaks, non-communicable diseases, and maternal health. My voluntary work complements my professional experience, enriching my research contributions.
+
+Future Aspirations: I look forward to collaborating with researchers and esteemed faculty members, such as Dr. Hao Cheng, to gain a comprehensive understanding of Biostatistics and public health. This collaboration will help achieve my goal of research leadership and contribute meaningfully to health science.
+
+Thank you for visiting my website.
+
+
+
+
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
