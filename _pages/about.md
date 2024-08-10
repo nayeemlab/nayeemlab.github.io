@@ -3,7 +3,11 @@ layout: about
 order: 1
 title: about
 permalink: /
-
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+    
 profile:
   align: right
   image: prof_pic.jpg
