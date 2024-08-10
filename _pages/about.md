@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-#Professional Background
+*Professional Background*
 With over three years of experience in health data management, I have worked with organizations like Green Hill-Community Partners International, Food for the Hungry-UNHCR, and Partners in Health & Development-Save the Children. This experience underscores my commitment to advancing academic and research pursuits in health.
 
 Academic Goals: I aim to refine my Biostatistics skills to conduct impactful research and eventually lead a research lab focused on statistical design, methodology, and mentorship. My dedication to Biostatistics is driven by influential academic mentors and a passion for continuous learning.
