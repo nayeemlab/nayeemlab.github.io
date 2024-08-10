@@ -12,7 +12,7 @@ In 2023, Bangladesh faced its worst dengue outbreak since 2000, highlighting the
 date: 2024-06-21
 venue: 'COVID'
 citation: '<br>1. Hasan MN. (2023). &quot;Correlation of Dengue and Meteorological Factors in Bangladesh: A Public Health Concern.&quot; <i> IJERPH</i>. https://doi.org/10.3390/ijerph20065152. <br> 
-2. Hasan MN. (2023). &quot;A short communication of 2022 dengue outbreak in Bangladesh: a continuous public health threat.&quot; <i>Annals of Medicine & Surgery</i>. https://doi.org/10.1097/MS9.0000000000000623. <br> 
+2. Hasan MN. (2023). &quot;A short communication of 2022 dengue outbreak in Bangladesh: a continuous public health threat.&quot; <i>Annals of Medicine & Surgery</i>. https://doi.org/10.1097/MS9.0000000000000623.
 <br>
 3. Hasan MN. (2023). &quot;The 2022 dengue outbreak in Bangladesh: hypotheses for the late resurgence of cases and fatalities.&quot; <i>Journal of Medical Entomology</i>. https://doi.org/10.1093/jme/tjad057. <br> 
 4. Hasan MN. (2023). &quot;Bangladeshs 2023 Dengue outbreak – age/gender-related disparity in morbidity and mortality and geographic variability of epidemic burdens.&quot; <i>IJID</i>. https://doi.org/10.1016/j.ijid.2023.08.026. <br>
