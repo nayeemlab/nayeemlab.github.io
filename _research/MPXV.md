@@ -1,5 +1,5 @@
 ---
-title: "COVID-19/SARS-COV-2"
+title: "Monkeypox"
 collection: Research
 permalink: /research/MPXV
 excerpt: 'Monkeypox disease (MPXD), caused by the zoonotic Monkeypox virus (MPXV), has spread globally, yet its relationship with climatic changes remains unstudied. Understanding the impact of meteorological factors such as temperature, precipitation, humidity, dew point, wind speed, and surface pressure on MPXV transmission is crucial. This study explores changes in MPXV cases over time and assesses how these meteorological variables may influence outbreaks (1). On July 23, 2022, the World Health Organization (WHO) declared MPXD a global health emergency. A systematic review and meta-analysis of MPXD from 1970-2022 revealed an overall case fatality rate (CFR) and identified a potential increased risk for obese patients, though this study has limitations (2). Despite the WHOs withdrawal of the global health concern after a year, future cases may still arise, particularly among obese individuals (3). Additionally, countries with high Global Health Security Index (GHSI) scores showed a positive correlation with MPX cases and fatalities, suggesting the need for better health coverage and revised GHSI indicators (4).'
