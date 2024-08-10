@@ -15,7 +15,7 @@ citation: '<br>1. Hasan MN. (2023). &quot;Correlation of Dengue and Meteorologic
 2. Hasan MN. (2023). &quot;A short communication of 2022 dengue outbreak in Bangladesh: a continuous public health threat.&quot; <i>Annals of Medicine & Surgery</i>. https://doi.org/10.1097/MS9.0000000000000623. <br> 
 <br>
 3. Hasan MN. (2023). &quot;The 2022 dengue outbreak in Bangladesh: hypotheses for the late resurgence of cases and fatalities.&quot; <i>Journal of Medical Entomology</i>. https://doi.org/10.1093/jme/tjad057. <br> 
-4. Hasan MN. (2023). &quot;Bangladesh's 2023 Dengue outbreak – age/gender-related disparity in morbidity and mortality and geographic variability of epidemic burdens.&quot; <i>IJID</i>. https://doi.org/10.1016/j.ijid.2023.08.026. <br>
+4. Hasan MN. (2023). &quot;Bangladeshs 2023 Dengue outbreak – age/gender-related disparity in morbidity and mortality and geographic variability of epidemic burdens.&quot; <i>IJID</i>. https://doi.org/10.1016/j.ijid.2023.08.026. <br>
 5. Hasan MN. (2024). &quot;Two decades of endemic dengue in Bangladesh (2000–2022): trends, seasonality, and impact of temperature and rainfall patterns on transmission dynamics.&quot; <i>Journal of Medical Entomology.</i>.  https://doi.org/10.1093/jme/tjae001.  <br>
 6. Hasan MN. (2023). &quot;Shifting Geographical Transmission Patterns: Characterizing the 2023 Fatal Dengue Outbreak in Bangladesh.&quot; <i>medRxiv (Preprint).</i>.  https://doi.org/10.1101/2024.03.24.24304789.
 <br>7. Hasan MN. (2023). &quot;Deep Learning Based Forecasting Models of Dengue Outbreak in Bangladesh: Comparative Analysis of LSTM, RNN, and GRU Models Using Multivariate Variables with a Two-Decade Dataset.&quot; <i>IEEE</i>. https://doi.org/10.1109/ICSSES62373.2024.10561382. <br> '
