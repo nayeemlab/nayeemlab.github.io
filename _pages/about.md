@@ -9,11 +9,11 @@ redirect_from:
 
 **Professional Background**
 <br>
-With over seven years of experience in diverse research activities, I’ve had the privilege of collaborating with both national and international organizations, supporting host communities in Bangladesh and Forcibly Displaced Myanmar Nationals (FDMN)/Rohingya refugees. My work has involved developing strategies for program growth, capacity building, and efficient data management💻. This journey has fueled my passion for advancing health-related academic and research initiatives, with the goal of making a positive impact globally💪.
+With over seven years of experience in diverse research activities, I’ve had the privilege of collaborating with both national and international organizations, supporting host communities in Bangladesh and Forcibly Displaced Myanmar Nationals (FDMN)/Rohingya refugees 🌱. My work has involved developing strategies for program growth, capacity building, and efficient data management💻.
 
 **Educational Background**
 <br>
-I earned a Bachelor of Science in Statistics from Shahjalal University of Science and Technology, where foundational courses in statistics and advanced studies in Regression Analysis and Statistical Computing shaped my analytical skills. My MS program further deepened my expertise in Biostatistics.
+I completed both my Bachelor's and Master's (thesis) programs in Statistics 📊, with a double major in Computer Science and Engineering (CSE) 💻 at Shahjalal University of Science and Technology, Sylhet, Bangladesh.
 
 **Academic Goals**
 <br>
