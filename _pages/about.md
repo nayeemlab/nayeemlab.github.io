@@ -17,7 +17,7 @@ I completed both my Bachelor's and Master's (thesis) programs in Statistics 📊
 
 **Academic Goals**
 <br>
-I aim to refine my Biostatistics skills to conduct impactful research and eventually lead a research lab focused on statistical design, methodology, and mentorship. My dedication to Biostatistics is driven by influential academic mentors and a passion for continuous learning.
+I aim to refine my Biostatistics skills 📊 to conduct impactful research and eventually lead a research lab 🧪 focused on statistical design, methodology, and mentorship 👩‍🏫. My dedication to Biostatistics is fueled by influential academic mentors 🎓 and a passion for continuous learning 📚.
 
 **Research Experience**
 <br>
