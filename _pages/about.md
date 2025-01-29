@@ -28,6 +28,8 @@ I aim to refine my Biostatistics skills 📊 to conduct impactful research and e
 <br>
 My research career includes publications in prestigious journals and successful projects funded by the Government of Bangladesh and University Grants 🎓. As a research assistant, I contributed to all stages, from developing proposals to analyzing data and writing final reports 📊. Most projects focused on socio-economic issues like poverty, social safety nets, and food security 🌍. My voluntary research has been published on community health, maternal and child health, and environmental health topics 👶🌱. With experience in data management and statistical analysis, I focus on developing methodologies and contributing to data analysis 💻.
 
+**Research Interests:** web science, social media, web archiving, information visualization (see some research mentees from my projects in  my [People](https://nayeemlab.github.io/people/))
+
 **Other Activities**
 <br>
 I have presented my research at several conferences, including the 2020 World One Health Congress 🌍, and served as an editorial board member and reviewer for multiple journals 📚. I also mentor students in data analysis and research methodologies, especially using SPSS, Stata, and R 💻. Reviewing papers has sparked innovative thinking and inspired me to explore new methods in health research, while mentoring others on research projects has strengthened my passion for pursuing an academic career 🎓.
