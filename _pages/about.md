@@ -9,11 +9,7 @@ redirect_from:
 
 **Professional Background**
 <br>
-With over three years of experience in health data management, I have worked with organizations like Green Hill-Community Partners International, Food for the Hungry-UNHCR, and Partners in Health & Development-Save the Children. This experience underscores my commitment to advancing academic and research pursuits in health.
-
-**Current Role**
-<br>
-As a Monitoring and Evaluation Officer (Health) in Humanitarian Response, I work on projects like the Rohingya Refugee/Forcibly Displaced Myanmar Nationals (FDMN) Response Program, focusing on health outcomes and data analysis. My role involves implementing strategies for program advancement, capacity building, and data management.
+With over seven years of experience in health data management, I’ve had the opportunity to work with both national and international organizations, supporting host communities in Bangladesh and Forcibly Displaced Myanmar Nationals (FDMN)/Rohingya refugees 🌍. My responsibilities have included implementing strategies for program advancement, capacity building, and effective data management 📊💻. This experience has deepened my passion for advancing academic and research initiatives in health, aiming for positive global impact 💪📚🌱.
 
 **Educational Background**
 <br>
