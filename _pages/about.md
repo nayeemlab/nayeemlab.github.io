@@ -21,11 +21,11 @@ I aim to refine my Biostatistics skills 📊 to conduct impactful research and e
 
 **Research Experience**
 <br>
-My research journey began during my undergraduate studies, investigating the impact of delivery methods on newborn health in Bangladesh. My Second Major in Computer Science and Engineering enhanced my skills in statistical programming languages such as SAS, Stata, and R.
+My research career includes publications in prestigious journals and successful projects funded by the Government of Bangladesh and University Grants 🎓. As a research assistant, I contributed to all stages, from developing proposals to analyzing data and writing final reports 📊. Most projects focused on socio-economic issues like poverty, social safety nets, and food security 🌍. My voluntary research has been published on community health, maternal and child health, and environmental health topics 👶🌱. With experience in data management and statistical analysis, I focus on developing methodologies and contributing to data analysis 💻.
 
-**Publications and Volunteering**
+**Other Activities**
 <br>
-I have authored over 30 publications in reputable journals, covering topics from COVID-19 to Dengue outbreaks, non-communicable diseases, and maternal health. My voluntary work complements my professional experience, enriching my research contributions.
+I have presented my research at several conferences, including the 2020 World One Health Congress 🌍, and served as an editorial board member and reviewer for multiple journals 📚. I also mentor students in data analysis and research methodologies, especially using SPSS, Stata, and R 💻. Reviewing papers has sparked innovative thinking and inspired me to explore new methods in health research, while mentoring others on research projects has strengthened my passion for pursuing an academic career 🎓.
 
 **Future Aspirations**
 <br>
