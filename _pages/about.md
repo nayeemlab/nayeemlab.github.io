@@ -9,7 +9,7 @@ redirect_from:
 
 **Professional Background**
 <br>
-With over seven years of experience in diverse research activities, I’ve had the privilege of collaborating with both national and international organizations, supporting host communities in Bangladesh and Forcibly Displaced Myanmar Nationals (FDMN)/Rohingya refugees. My work has involved developing strategies for program growth, capacity building, and efficient data management 📊💻. This journey has fueled my passion for advancing health-related academic and research initiatives, with the goal of making a positive impact globally 💪🌱.
+With over seven years of experience in diverse research activities, I’ve had the privilege of collaborating with both national and international organizations, supporting host communities in Bangladesh and Forcibly Displaced Myanmar Nationals (FDMN)/Rohingya refugees. My work has involved developing strategies for program growth, capacity building, and efficient data management💻. This journey has fueled my passion for advancing health-related academic and research initiatives, with the goal of making a positive impact globally 💪.
 
 **Educational Background**
 <br>
