@@ -3,84 +3,22 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Nayeem's Homepage"
-title_separator          : "-"
-name                     : &name "Mohammad Nayeem Hasan"
-description              : &description "personal description"
-url                      : https://nayeemlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Mohammad Nayeem Hasan"
-  pronouns         : # example: "she/her"  
-  bio              : "Biostatistician, Shahjalal University of Science and Technology, Sylhet"
-  location         : "Cox’s Bazar, Bangladesh"
-  employer         : "Team Leader, UNITY BD"
-  uri              : https://unitybangladesh.org/
-  email            : "nayeem5847@gmail.com" 
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=uL4sMPIAAAAJ&hl=en"
-  researchgate     : "https://www.researchgate.net/profile/Mohammad-Hasan-79"
-  impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2383-0459"
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Mohammad-Hasan-79"
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "nayeemlab"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  bluesky          : # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/nayeem5847"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
-
+# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+locale                   : "en-US"
+title                    : "Michele C. Weigle @ ODU"
+title_separator          : "-"
+name                     : &name "Michele C. Weigle"
+description              : &description "Professor of Computer Science"
+url                      : https://weiglemc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "weiglemc/weiglemc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -109,9 +47,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-
 
 # SEO Related
 google_site_verification :
@@ -119,10 +55,13 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
 # Social Sharing
+mastodon:
+  username               : "digipres.club/@weiglemc"
 twitter:
-  username               : &twitter
+  username               : "weiglemc"
+bluesky:
+  username               : "weiglemc.bsky.social"
 facebook:
   username               :
   app_id                 :
@@ -138,9 +77,51 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+
+
+# Site Author
+author:
+  name             : "Dr. Michele C. Weigle"
+  avatar           : "mweigle-ODU.jpg"
+  bio              : "Professor of Computer Science"
+  location         : "Norfolk, VA"
+  employer         : "Old Dominion University"
+  employeruri      : "https://www.odu.edu"
+  pubmed           : 
+  googlescholar    : "http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
+  email            : "mweigle at cs dot odu dot edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              : "https://www.cs.odu.edu/~mweigle/"
+  bitbucket        :
+  bluesky          : "weiglemc.bsky.social"
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "weiglemc"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "michele-weigle-559b052"
+  mastodon         : "digipres.club/@weiglemc"
+  orcid            : "https://orcid.org/0000-0002-2787-7166"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : #"weiglemc"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
@@ -207,7 +188,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -222,7 +203,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: double
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -253,10 +234,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _portfolio
   - scope:
       path: ""
-      type: research
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -271,7 +252,6 @@ defaults:
       author_profile: true
       share: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -283,6 +263,7 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 # Plugins
 plugins:
