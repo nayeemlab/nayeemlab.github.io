@@ -29,6 +29,6 @@ I have presented my research at several conferences, including the 2020 World On
 
 **Future Aspirations**
 <br>
-I look forward to collaborating with researchers and esteemed faculty members, such as Dr. Hao Cheng, to gain a comprehensive understanding of Biostatistics and public health. This collaboration will help achieve my goal of research leadership and contribute meaningfully to health science.
+My commitment to public health combines innovative methodologies with statistical tools in big data, deep learning, and machine learning 📊🤖. I aim to become an expert in public health research methods and lead a lab that advances statistical techniques while mentoring future researchers 🎓. Focusing on critical issues like infectious diseases and maternal health, I want to translate evidence-based practices into improved health outcomes 🌍💪. After my PhD, I envision leading a research lab tackling environmental and global health challenges at a top academic institution 🎓🔬.
 
 *Thank you for visiting my website.*
