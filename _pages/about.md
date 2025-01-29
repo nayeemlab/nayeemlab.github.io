@@ -13,7 +13,7 @@ With over seven years of experience in diverse research activities, I’ve had t
 
 **Educational Background**
 <br>
-I completed both my Bachelor's and Master's (thesis) programs in Statistics 📊, with a double major in Computer Science and Engineering (CSE) 💻 at Shahjalal University of Science and Technology, Sylhet, Bangladesh.
+I completed both my Bachelor's and Master's (thesis) programs in Statistics 📊, with a double major in Computer Science and Engineering (CSE) 💻 at Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh.
 
 **Academic Goals**
 <br>
